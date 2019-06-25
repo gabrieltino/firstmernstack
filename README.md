@@ -1,5 +1,9 @@
 # firstmernstack
 
+###### MERN integrated without redux
+
+used component state management
+
 * RUN npm client-install to get dependencies for React
 
 
